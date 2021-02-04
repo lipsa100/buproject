@@ -50,30 +50,12 @@ function makesound(buttonclicks){
    htoedit.innerHTML="Watermelon <i>🍹</i> juice";
    texttoedit.innerHTML="watermelon juice";
    imgtoedit.classList.add("rightside1");
-   imgtoedit.classList.remove("rightside2");
-   imgtoedit.classList.remove("rightside3");
-   imgtoedit.classList.remove("rightside4");
-   imgtoedit.classList.remove("rightside5");
-   imgtoedit.classList.remove("rightside6");
-   imgtoedit.classList.remove("rightside7");
-   imgtoedit.classList.remove("rightside8");
-   imgtoedit.classList.remove("rightside9");
-   imgtoedit.classList.remove("rightside10");
-   imgtoedit.classList.remove("rightside11");
-   imgtoedit.classList.remove("rightside12");
+   imgtoedit.classList.remove("rightside2","rightside3","rightside4","rightside5","rightside6","rightside7" ,"rightside8","rightside9","rightside10","rightside11","rightside12");
+
 
    bodytoedit.classList.add("bg1");
-   bodytoedit.classList.remove("bg2");
-   bodytoedit.classList.remove("bg3");
-   bodytoedit.classList.remove("bg4");
-   bodytoedit.classList.remove("bg5");
-   bodytoedit.classList.remove("bg6");
-   bodytoedit.classList.remove("bg7");
-   bodytoedit.classList.remove("bg8");
-   bodytoedit.classList.remove("bg9");
-   bodytoedit.classList.remove("bg10");
-   bodytoedit.classList.remove("bg11");
-   bodytoedit.classList.remove("bg12");
+   bodytoedit.classList.remove("bg2","bg3","bg4","bg5","bg6","bg7","bg8","bg9","bg10","bg11","bg12");
+
     };
     break;
 
@@ -81,31 +63,13 @@ function makesound(buttonclicks){
     buttoncoolkiwi.onclick = function() {
       htoedit.innerHTML="Cool kiwi <i>🍹</i> juice";
       texttoedit.innerHTML="cool kiwi juice";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.add("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.remove("rightside4");
-      imgtoedit.classList.remove("rightside5");
-      imgtoedit.classList.remove("rightside6");
-      imgtoedit.classList.remove("rightside7");
-      imgtoedit.classList.remove("rightside8");
-      imgtoedit.classList.remove("rightside9");
-      imgtoedit.classList.remove("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.remove("rightside12");
 
-      bodytoedit.classList.remove("bg1");
+      imgtoedit.classList.add("rightside2");
+      imgtoedit.classList.remove("rightside1","rightside3","rightside4","rightside5","rightside6","rightside7","rightside8","rightside9","rightside10","rightside11","rightside12");
+
       bodytoedit.classList.add("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.remove("bg4");
-      bodytoedit.classList.remove("bg5");
-      bodytoedit.classList.remove("bg6");
-      bodytoedit.classList.remove("bg7");
-      bodytoedit.classList.remove("bg8");
-      bodytoedit.classList.remove("bg9");
-      bodytoedit.classList.remove("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.remove("bg12");
+      bodytoedit.classList.remove("bg1","bg3","bg4","bg5","bg6","bg7","bg8","bg9","bg10","bg11","bg12");
+
     };
     break;
 
@@ -114,31 +78,15 @@ function makesound(buttonclicks){
       buttonaam.onclick = function() {
         htoedit.innerHTML="Aam Ras<i>🍹</i> juice";
         texttoedit.innerHTML="aam ras juice";
-        imgtoedit.classList.remove("rightside1");
-        imgtoedit.classList.remove("rightside2");
-        imgtoedit.classList.add("rightside3");
-        imgtoedit.classList.remove("rightside4");
-        imgtoedit.classList.remove("rightside5");
-        imgtoedit.classList.remove("rightside6");
-        imgtoedit.classList.remove("rightside7");
-        imgtoedit.classList.remove("rightside8");
-        imgtoedit.classList.remove("rightside9");
-        imgtoedit.classList.remove("rightside10");
-        imgtoedit.classList.remove("rightside11");
-        imgtoedit.classList.remove("rightside12");
 
-        bodytoedit.classList.remove("bg1");
-        bodytoedit.classList.remove("bg2");
-        bodytoedit.classList.add("bg3");
-        bodytoedit.classList.remove("bg4");
-        bodytoedit.classList.remove("bg5");
-        bodytoedit.classList.remove("bg6");
-        bodytoedit.classList.remove("bg7");
-        bodytoedit.classList.remove("bg8");
-        bodytoedit.classList.remove("bg9");
-        bodytoedit.classList.remove("bg10");
-        bodytoedit.classList.remove("bg11");
-        bodytoedit.classList.remove("bg12");
+      imgtoedit.classList.add("rightside3");
+      imgtoedit.classList.remove("rightside1","rightside2","rightside4","rightside5","rightside6","rightside7" ,"rightside8","rightside9","rightside10","rightside11","rightside12");
+
+          bodytoedit.classList.add("bg3");
+          bodytoedit.classList.remove("bg1","bg2","bg4","bg5","bg6","bg7","bg8","bg9","bg10","bg11","bg12");
+
+
+
       };
       break;
 
@@ -146,31 +94,13 @@ function makesound(buttonclicks){
     buttonananas.onclick = function() {
       htoedit.innerHTML="Ananas Da Panna <i>🍹</i> juice";
       texttoedit.innerHTML="Ananas Da Panna juice";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.remove("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.add("rightside4");
-      imgtoedit.classList.remove("rightside5");
-      imgtoedit.classList.remove("rightside6");
-      imgtoedit.classList.remove("rightside7");
-      imgtoedit.classList.remove("rightside8");
-      imgtoedit.classList.remove("rightside9");
-      imgtoedit.classList.remove("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.remove("rightside12");
 
-      bodytoedit.classList.remove("bg1");
-      bodytoedit.classList.remove("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.add("bg4");
-      bodytoedit.classList.remove("bg5");
-      bodytoedit.classList.remove("bg6");
-      bodytoedit.classList.remove("bg7");
-      bodytoedit.classList.remove("bg8");
-      bodytoedit.classList.remove("bg9");
-      bodytoedit.classList.remove("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.remove("bg12");
+            imgtoedit.classList.add("rightside4");
+            imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside5","rightside6","rightside7" ,"rightside8","rightside9","rightside10","rightside11","rightside12");
+
+            bodytoedit.classList.add("bg4");
+            bodytoedit.classList.remove("bg1","bg2","bg3","bg5","bg6","bg7","bg8","bg9","bg10","bg11","bg12");
+
         };
         break;
 
@@ -178,31 +108,13 @@ function makesound(buttonclicks){
     buttonlychee.onclick = function() {
       htoedit.innerHTML="Lychee and Dill <i>🍹</i> juice";
       texttoedit.innerHTML="Lychee and Dill juice";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.remove("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.remove("rightside4");
-      imgtoedit.classList.add("rightside5");
-      imgtoedit.classList.remove("rightside6");
-      imgtoedit.classList.remove("rightside7");
-      imgtoedit.classList.remove("rightside8");
-      imgtoedit.classList.remove("rightside9");
-      imgtoedit.classList.remove("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.remove("rightside12");
 
-      bodytoedit.classList.remove("bg1");
-      bodytoedit.classList.remove("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.remove("bg4");
+      imgtoedit.classList.add("rightside5");
+      imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside4","rightside6","rightside7" ,"rightside8","rightside9","rightside10","rightside11","rightside12");
+
       bodytoedit.classList.add("bg5");
-      bodytoedit.classList.remove("bg6");
-      bodytoedit.classList.remove("bg7");
-      bodytoedit.classList.remove("bg8");
-      bodytoedit.classList.remove("bg9");
-      bodytoedit.classList.remove("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.remove("bg12");
+      bodytoedit.classList.remove("bg1","bg2","bg3","bg4","bg6","bg7","bg8","bg9","bg10","bg11","bg12");
+
     };
     break;
 
@@ -211,31 +123,14 @@ function makesound(buttonclicks){
     buttonberry.onclick = function() {
       htoedit.innerHTML="Very Berry Khatta <i>🍹</i> juice";
       texttoedit.innerHTML="Very Berry Khatta juice";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.remove("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.remove("rightside4");
-      imgtoedit.classList.remove("rightside5");
-      imgtoedit.classList.add("rightside6");
-      imgtoedit.classList.remove("rightside7");
-      imgtoedit.classList.remove("rightside8");
-      imgtoedit.classList.remove("rightside9");
-      imgtoedit.classList.remove("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.remove("rightside12");
 
-      bodytoedit.classList.remove("bg1");
-      bodytoedit.classList.remove("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.remove("bg4");
-      bodytoedit.classList.remove("bg5");
-      bodytoedit.classList.add("bg6");
-      bodytoedit.classList.remove("bg7");
-      bodytoedit.classList.remove("bg8");
-      bodytoedit.classList.remove("bg9");
-      bodytoedit.classList.remove("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.remove("bg12");
+
+            imgtoedit.classList.add("rightside6");
+            imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside4","rightside5","rightside7","rightside8","rightside9","rightside10","rightside11","rightside12");
+
+            bodytoedit.classList.add("bg6");
+            bodytoedit.classList.remove("bg1","bg2","bg3","bg4","bg5","bg7","bg8","bg9","bg10","bg11","bg12");
+
       };
     break;
 
@@ -244,33 +139,14 @@ function makesound(buttonclicks){
     buttonpunch.onclick = function() {
       htoedit.innerHTML="Virgin punch  <i>🍹</i> juice";
       texttoedit.innerHTML="virgin punch juice";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.remove("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.remove("rightside4");
-      imgtoedit.classList.remove("rightside5");
-      imgtoedit.classList.remove("rightside6");
+
       imgtoedit.classList.add("rightside7");
-      imgtoedit.classList.remove("rightside8");
-      imgtoedit.classList.remove("rightside9");
-      imgtoedit.classList.remove("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.remove("rightside12");
+      imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside4","rightside5","rightside6","rightside8","rightside9","rightside10","rightside11","rightside12");
 
-      bodytoedit.classList.remove("bg1");
-      bodytoedit.classList.remove("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.remove("bg4");
-      bodytoedit.classList.remove("bg5");
-      bodytoedit.classList.remove("bg6");
       bodytoedit.classList.add("bg7");
-      bodytoedit.classList.remove("bg8");
-      bodytoedit.classList.remove("bg9");
-      bodytoedit.classList.remove("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.remove("bg12");
-      };
+      bodytoedit.classList.remove("bg1","bg2","bg3","bg4","bg5","bg6","bg8","bg9","bg10","bg11","bg12");
 
+};
     break;
 
 
@@ -278,31 +154,13 @@ function makesound(buttonclicks){
     buttongrape.onclick = function() {
       htoedit.innerHTML="Grape nectar <i>🍹</i> juice";
       texttoedit.innerHTML="Grape nectar juice";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.remove("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.remove("rightside4");
-      imgtoedit.classList.remove("rightside5");
-      imgtoedit.classList.remove("rightside6");
-      imgtoedit.classList.remove("rightside7");
-      imgtoedit.classList.add("rightside8");
-      imgtoedit.classList.remove("rightside9");
-      imgtoedit.classList.remove("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.remove("rightside12");
 
-      bodytoedit.classList.remove("bg1");
-      bodytoedit.classList.remove("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.remove("bg4");
-      bodytoedit.classList.remove("bg5");
-      bodytoedit.classList.remove("bg6");
-      bodytoedit.classList.remove("bg7");
-      bodytoedit.classList.add("bg8");
-      bodytoedit.classList.remove("bg9");
-      bodytoedit.classList.remove("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.remove("bg12");
+            imgtoedit.classList.add("rightside8");
+            imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside4","rightside5","rightside6","rightside7","rightside9","rightside10","rightside11","rightside12");
+
+            bodytoedit.classList.add("bg8");
+            bodytoedit.classList.remove("bg1","bg2","bg3","bg4","bg5","bg6","bg7","bg9","bg10","bg11","bg12");
+
       };
     break;
 
@@ -310,31 +168,14 @@ function makesound(buttonclicks){
     buttonplum.onclick = function() {
       htoedit.innerHTML="Plum-Ness <i>🍹</i> juice";
       texttoedit.innerHTML="plum-ness juice";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.remove("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.remove("rightside4");
-      imgtoedit.classList.remove("rightside5");
-      imgtoedit.classList.remove("rightside6");
-      imgtoedit.classList.remove("rightside7");
-      imgtoedit.classList.remove("rightside8");
-      imgtoedit.classList.add("rightside9");
-      imgtoedit.classList.remove("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.remove("rightside12");
 
-      bodytoedit.classList.remove("bg1");
-      bodytoedit.classList.remove("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.remove("bg4");
-      bodytoedit.classList.remove("bg5");
-      bodytoedit.classList.remove("bg6");
-      bodytoedit.classList.remove("bg7");
-      bodytoedit.classList.remove("bg8");
-      bodytoedit.classList.add("bg9");
-      bodytoedit.classList.remove("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.remove("bg12");
+
+            imgtoedit.classList.add("rightside9");
+            imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside4","rightside5","rightside6","rightside7","rightside8","rightside10","rightside11","rightside12");
+
+            bodytoedit.classList.add("bg9");
+            bodytoedit.classList.remove("bg1","bg2","bg3","bg4","bg5","bg6","bg7","bg8","bg10","bg11","bg12");
+
       };
 
     break;
@@ -342,31 +183,14 @@ function makesound(buttonclicks){
     buttonorange.onclick = function() {
       htoedit.innerHTML="Orange And Basil <i>🍹</i> juice";
       texttoedit.innerHTML="orange and basil juice";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.remove("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.remove("rightside4");
-      imgtoedit.classList.remove("rightside5");
-      imgtoedit.classList.remove("rightside6");
-      imgtoedit.classList.remove("rightside7");
-      imgtoedit.classList.remove("rightside8");
-      imgtoedit.classList.remove("rightside9");
-      imgtoedit.classList.add("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.remove("rightside12");
 
-      bodytoedit.classList.remove("bg1");
-      bodytoedit.classList.remove("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.remove("bg4");
-      bodytoedit.classList.remove("bg5");
-      bodytoedit.classList.remove("bg6");
-      bodytoedit.classList.remove("bg7");
-      bodytoedit.classList.remove("bg8");
-      bodytoedit.classList.remove("bg9");
-      bodytoedit.classList.add("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.remove("bg12");
+
+            imgtoedit.classList.add("rightside10");
+            imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside4","rightside5","rightside6","rightside7","rightside8","rightside9","rightside11","rightside12");
+
+            bodytoedit.classList.add("bg10");
+            bodytoedit.classList.remove("bg1","bg2","bg3","bg4","bg5","bg6","bg7","bg8","bg9","bg11","bg12");
+
       };
 
     break;
@@ -374,31 +198,13 @@ function makesound(buttonclicks){
     buttonpomegranate.onclick = function() {
        htoedit.innerHTML="Pomegranate <i>🍹</i> juice";
         texttoedit.innerHTML="pomegranate juice";
-        imgtoedit.classList.remove("rightside1");
-        imgtoedit.classList.remove("rightside2");
-        imgtoedit.classList.remove("rightside3");
-        imgtoedit.classList.remove("rightside4");
-        imgtoedit.classList.remove("rightside5");
-        imgtoedit.classList.remove("rightside6");
-        imgtoedit.classList.remove("rightside7");
-        imgtoedit.classList.remove("rightside8");
-        imgtoedit.classList.remove("rightside9");
-        imgtoedit.classList.remove("rightside10");
-        imgtoedit.classList.add("rightside11");
-        imgtoedit.classList.remove("rightside12");
 
-        bodytoedit.classList.remove("bg1");
-        bodytoedit.classList.remove("bg2");
-        bodytoedit.classList.remove("bg3");
-        bodytoedit.classList.remove("bg4");
-        bodytoedit.classList.remove("bg5");
-        bodytoedit.classList.remove("bg6");
-        bodytoedit.classList.remove("bg7");
-        bodytoedit.classList.remove("bg8");
-        bodytoedit.classList.remove("bg9");
-        bodytoedit.classList.remove("bg10");
-        bodytoedit.classList.add("bg11");
-        bodytoedit.classList.remove("bg12");
+              imgtoedit.classList.add("rightside11");
+              imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside4","rightside5","rightside6","rightside7","rightside8","rightside9","rightside10","rightside12");
+
+              bodytoedit.classList.add("bg11");
+              bodytoedit.classList.remove("bg1","bg2","bg3","bg4","bg5","bg6","bg7","bg8","bg9","bg10","bg12");
+
       };
 
     break;
@@ -406,31 +212,13 @@ function makesound(buttonclicks){
     buttonmilkshake.onclick = function() {
       htoedit.innerHTML="Milkshake <i>🍹</i> ";
       texttoedit.innerHTML="milkshake";
-      imgtoedit.classList.remove("rightside1");
-      imgtoedit.classList.remove("rightside2");
-      imgtoedit.classList.remove("rightside3");
-      imgtoedit.classList.remove("rightside4");
-      imgtoedit.classList.remove("rightside5");
-      imgtoedit.classList.remove("rightside6");
-      imgtoedit.classList.remove("rightside7");
-      imgtoedit.classList.remove("rightside8");
-      imgtoedit.classList.remove("rightside9");
-      imgtoedit.classList.remove("rightside10");
-      imgtoedit.classList.remove("rightside11");
-      imgtoedit.classList.add("rightside12");
 
-      bodytoedit.classList.remove("bg1");
-      bodytoedit.classList.remove("bg2");
-      bodytoedit.classList.remove("bg3");
-      bodytoedit.classList.remove("bg4");
-      bodytoedit.classList.remove("bg5");
-      bodytoedit.classList.remove("bg6");
-      bodytoedit.classList.remove("bg7");
-      bodytoedit.classList.remove("bg8");
-      bodytoedit.classList.remove("bg9");
-      bodytoedit.classList.remove("bg10");
-      bodytoedit.classList.remove("bg11");
-      bodytoedit.classList.add("bg12");
+            imgtoedit.classList.add("rightside12");
+            imgtoedit.classList.remove("rightside1","rightside2","rightside3","rightside4","rightside5","rightside6","rightside7","rightside8","rightside9","rightside10","rightside11");
+
+            bodytoedit.classList.add("bg12");
+            bodytoedit.classList.remove("bg1","bg2","bg3","bg4","bg5","bg6","bg7","bg8","bg9","bg10","bg11");
+
       };
 
     break;
