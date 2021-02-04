@@ -189,7 +189,7 @@ background-size: cover;
 
 .rightside7 {
   background-image: url("https://i.pinimg.com/originals/38/9a/c6/389ac649b5dc8f92969f513ce75d6f43.jpg") ;
-  background-size: contain;
+  background-size: cover;
   height:330px;
   width: 480px;
   margin: 164px 0 0 870px;
@@ -206,9 +206,10 @@ background-size: cover;
 .rightside9 {
   background-image: url("https://image.shutterstock.com/image-photo/fresh-plums-juice-on-white-260nw-453876232.jpg") ;
   background-size: cover;
-  height:320px;
+  height:330px;
   width: 480px;
   margin: 164px 0 0 870px;
+
 }
 
 .rightside10 {
@@ -237,6 +238,42 @@ background-size: cover;
 
 p{
   color:black;
+}
+.bg1{
+  background-image: url("https://cutewallpaper.org/21/watermelon-desktop-wallpaper/50+-Watermelon-Wallpapers-Download-at-WallpaperBro.jpg");
+}
+.bg2{
+  background-image: url("https://i.pinimg.com/originals/1a/cf/ee/1acfee4589f3840b35ed0a6a0f7a4a08.jpg");
+}
+.bg3{
+  background-image: url("https://image.freepik.com/free-vector/mango-fruit-with-splash-juice-illustration_9845-124.jpg");
+}
+.bg4{
+  background-image: url("https://wallpapercave.com/wp/wp1837417.jpg");
+}
+.bg5{
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/924/204/23/lychee-4k-in-hd-for-pc-wallpaper-preview.jpg");
+}
+.bg6{
+  background-image: url("https://wallpapercave.com/wp/wp2686878.jpg");
+}
+.bg7{
+  background-image: url("https://i.pinimg.com/originals/a9/0b/ca/a90bcad531c4f98185632dcf23e60919.jpg");
+}
+.bg8{
+  background-image: url("https://cdn.wallpapersafari.com/9/3/X12Qpa.jpg");
+}
+.bg9{
+  background-image: url("https://www.teahub.io/photos/full/5-54406_plum-fruits-hd-wallpaper-plum-this-is-just.jpg");
+}
+.bg10{
+  background-image: url("https://wallpaperaccess.com/full/1652389.jpg");
+}
+.bg11{
+  background-image: url("https://www.diet-health.info/images/recipes/1400/granatapfel-pomegranate-by-lev-fotolia-61560577.jpg");
+}
+.bg12{
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/101/844/991/wave-heart-chocolate-wallpaper-preview.jpg");
 }
 @media (max-width:1028px){
   .drum{
