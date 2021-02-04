@@ -1,0 +1,249 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #283149;
+  background-image: url("https://img5.goodfon.com/wallpaper/nbig/1/f8/4k-hd-background-abstract-blue-stripes-faded-abstractions.jpg");
+  background-size: cover;
+  opacity: 1.6;
+}
+
+h1 {
+  font-size: 5rem;
+  margin-top: 20px;
+  margin-bottom: -130px;
+  color: #DBEDF3;
+  font-family: "Arvo", "cursive";
+  text-shadow: 3px 0 #DA0463;
+
+}
+.set{
+  width: 60%;
+  padding-left: 100px;
+  text-align: left;
+  position: absolute;
+
+}
+footer {
+  color: #120078;
+   /*  */
+   /* #fde8cd; */
+  font-family: sans-serif;
+  margin-top: 6.5rem;
+}
+
+.watermelon {
+background-image: url("https://truffle-assets.imgix.net/27d2d8d0-summercocktail01.jpg?auto=compress,format&fm=pjpg&w=300");
+background-size:cover;
+}
+
+.coolkiwi {
+background-image: url("https://amazefoods.in/wp-content/uploads/2018/05/kiwi-600x600.jpg");
+background-size: cover;
+}
+
+.aam {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgJ_aGRhXaHHPXRMSmBiSDil26HoFFRkVnw&usqp=CAU");
+background-size:cover;
+}
+
+.ananas{
+background-image: url("https://cdn2.foodviva.com/static-content/food-images/pineapple-recipes/pineapple-juice-recipe/pineapple-juice-recipe.jpg");
+background-size:cover;
+}
+
+.lychee {
+background-image: url("https://previews.123rf.com/images/bdspn/bdspn1506/bdspn150600078/41792585-close-up-of-lychee-juice-with-with-fresh-fruits.jpg");
+background-size: cover;
+}
+
+.berry {
+background-image: url("https://www.heritagefresh.in/blog/wp-content/uploads/2019/05/shutterstock_122064988-683x1024.jpg");
+background-size: cover;
+}
+
+.punch{
+background-image: url("https://www.thespruceeats.com/thmb/pAApJHNd0rKhoHtRDmAw1inGft8=/3713x3713/smart/filters:no_upscale()/_cardinal-punch-recipe-non-alcoholic-759634-hero-5bd31ecc46e0fb00262d9f2f.jpg");
+background-size: cover;
+}
+
+.grape{
+  background-image: url("https://www.chatelaine.com/wp-content/uploads/2012/11/167-569x660.jpg");
+  background-size: cover;
+}
+
+.plum{
+  background-image: url("https://c.ndtvimg.com/2020-06/guhb9cc8_plum-drink_120x90_03_June_20.jpg");
+  background-size: cover;
+}
+.orange {
+background-image: url("https://www.jessicagavin.com/wp-content/uploads/2016/03/carrot-juice-smoothie-with-turmeric-and-ginger-1200.jpg");
+background-size: cover;
+}
+
+.pomegranate{
+background-image: url("https://img.pngio.com/pomegranate-one-opti-juice-hd-png-download-270189-free-pomegranate-juice-png-840_940.png");
+background-size: cover;
+}
+
+.milkshake{
+  background-image: url("https://cdn2.foodviva.com/static-content/food-images/milkshake-recipes/chocolate-milkshake-recipe/chocolate-milkshake-recipe-2.jpg");
+  background-size: cover;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 1px;
+  font-family: 'Arvo', 'cursive';
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.stop{
+  margin-top: -10rem;
+}
+.rightside0 img{
+
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 700px;
+}
+.rightdown0{
+
+  margin-left:878px;
+  margin-top: 30px;
+  width: 480px;
+  color:#ddd;
+}
+.rightside1 {
+  background-image: url("https://trendjuices.com/wp-content/uploads/2020/02/watermelon-juice.jpg") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside2 {
+  background-image: url("https://s1.1zoom.me/big7/455/Juice_Kiwi_White_background_Highball_glass_556658_2548x1920.jpg") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside3 {
+  background-image: url("https://www.itl.cat/pngfile/big/159-1593158_free-juice-wallpapers-mango-juice.jpg") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside4 {
+  background-image: url("https://di9mr54a05a64.cloudfront.net/api-newdemo.expoplatform.com/image/MTU5NjExMjQ2MDVmMjJiZTRjNjc1ZDg=.png") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside5 {
+  background-image: url("https://thumbs.dreamstime.com/b/litchi-juice-glass-fresh-juicy-lychee-fruit-glass-plate-organic-leechee-sweet-organic-concept-exotic-95711172.jpg") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside6 {
+  background-image: url("https://lh3.googleusercontent.com/proxy/IA9LmT_WCzGC9AnrdJ0yNDH1T-9lJHGx7EEX7ICrGttySrjOlbv_j4RuR84mVVkr2ggIxMQpxNIdi490tvVqF9OM95Ek_uVHIHietySDdb--Sw") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside7 {
+  background-image: url("https://i.pinimg.com/originals/38/9a/c6/389ac649b5dc8f92969f513ce75d6f43.jpg") ;
+  background-size: contain;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside8 {
+  background-image: url("https://images5.alphacoders.com/329/329416.jpg") ;
+  background-size: contain;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside9 {
+  background-image: url("https://image.shutterstock.com/image-photo/fresh-plums-juice-on-white-260nw-453876232.jpg") ;
+  background-size: cover;
+  height:320px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside10 {
+  background-image: url("http://www.ndtv.com/cooks/images/orange-and-basil-juice.jpg") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside11 {
+  background-image: url("https://img.favpng.com/15/16/13/pomegranate-juice-soft-drink-orange-juice-apple-juice-png-favpng-epZirKzKzMcBjvE819ttEhza2.jpg") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+.rightside12 {
+  background-image: url("https://media.istockphoto.com/photos/low-key-chocolate-smoothies-on-a-table-in-a-rustic-kitchen-picture-id1126893721?k=6&m=1126893721&s=612x612&w=0&h=WJFaeaE_VCx3pIzcU1F4SUabks-GzE3Ja_lGpdYH7pg=") ;
+  background-size: cover;
+  height:330px;
+  width: 480px;
+  margin: 164px 0 0 870px;
+}
+
+p{
+  color:black;
+}
+@media (max-width:1028px){
+  .drum{
+    height:200px;
+    width:200px;
+    margin: 40px;
+
+  }
+
+}
