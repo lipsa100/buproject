@@ -14,9 +14,14 @@ var buttonmilkshake = document.querySelector(".milkshake");
 
 var number=document.querySelectorAll(".drum").length;
 
+var bodytoedit=document.querySelector("body");
 var texttoedit=document.querySelector("p");
 var imgtoedit=document.querySelector('.rightside0');
 var htoedit=document.querySelector("h1");
+
+
+
+
 
 for(i=0 ; i<number ; i++)
 {
@@ -56,6 +61,19 @@ function makesound(buttonclicks){
    imgtoedit.classList.remove("rightside10");
    imgtoedit.classList.remove("rightside11");
    imgtoedit.classList.remove("rightside12");
+
+   bodytoedit.classList.add("bg1");
+   bodytoedit.classList.remove("bg2");
+   bodytoedit.classList.remove("bg3");
+   bodytoedit.classList.remove("bg4");
+   bodytoedit.classList.remove("bg5");
+   bodytoedit.classList.remove("bg6");
+   bodytoedit.classList.remove("bg7");
+   bodytoedit.classList.remove("bg8");
+   bodytoedit.classList.remove("bg9");
+   bodytoedit.classList.remove("bg10");
+   bodytoedit.classList.remove("bg11");
+   bodytoedit.classList.remove("bg12");
     };
     break;
 
@@ -76,6 +94,18 @@ function makesound(buttonclicks){
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.remove("rightside12");
 
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.add("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.remove("bg4");
+      bodytoedit.classList.remove("bg5");
+      bodytoedit.classList.remove("bg6");
+      bodytoedit.classList.remove("bg7");
+      bodytoedit.classList.remove("bg8");
+      bodytoedit.classList.remove("bg9");
+      bodytoedit.classList.remove("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.remove("bg12");
     };
     break;
 
@@ -96,6 +126,19 @@ function makesound(buttonclicks){
         imgtoedit.classList.remove("rightside10");
         imgtoedit.classList.remove("rightside11");
         imgtoedit.classList.remove("rightside12");
+
+        bodytoedit.classList.remove("bg1");
+        bodytoedit.classList.remove("bg2");
+        bodytoedit.classList.add("bg3");
+        bodytoedit.classList.remove("bg4");
+        bodytoedit.classList.remove("bg5");
+        bodytoedit.classList.remove("bg6");
+        bodytoedit.classList.remove("bg7");
+        bodytoedit.classList.remove("bg8");
+        bodytoedit.classList.remove("bg9");
+        bodytoedit.classList.remove("bg10");
+        bodytoedit.classList.remove("bg11");
+        bodytoedit.classList.remove("bg12");
       };
       break;
 
@@ -115,6 +158,19 @@ function makesound(buttonclicks){
       imgtoedit.classList.remove("rightside10");
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.remove("rightside12");
+
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.remove("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.add("bg4");
+      bodytoedit.classList.remove("bg5");
+      bodytoedit.classList.remove("bg6");
+      bodytoedit.classList.remove("bg7");
+      bodytoedit.classList.remove("bg8");
+      bodytoedit.classList.remove("bg9");
+      bodytoedit.classList.remove("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.remove("bg12");
         };
         break;
 
@@ -134,6 +190,19 @@ function makesound(buttonclicks){
       imgtoedit.classList.remove("rightside10");
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.remove("rightside12");
+
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.remove("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.remove("bg4");
+      bodytoedit.classList.add("bg5");
+      bodytoedit.classList.remove("bg6");
+      bodytoedit.classList.remove("bg7");
+      bodytoedit.classList.remove("bg8");
+      bodytoedit.classList.remove("bg9");
+      bodytoedit.classList.remove("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.remove("bg12");
     };
     break;
 
@@ -154,6 +223,19 @@ function makesound(buttonclicks){
       imgtoedit.classList.remove("rightside10");
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.remove("rightside12");
+
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.remove("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.remove("bg4");
+      bodytoedit.classList.remove("bg5");
+      bodytoedit.classList.add("bg6");
+      bodytoedit.classList.remove("bg7");
+      bodytoedit.classList.remove("bg8");
+      bodytoedit.classList.remove("bg9");
+      bodytoedit.classList.remove("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.remove("bg12");
       };
     break;
 
@@ -174,6 +256,19 @@ function makesound(buttonclicks){
       imgtoedit.classList.remove("rightside10");
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.remove("rightside12");
+
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.remove("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.remove("bg4");
+      bodytoedit.classList.remove("bg5");
+      bodytoedit.classList.remove("bg6");
+      bodytoedit.classList.add("bg7");
+      bodytoedit.classList.remove("bg8");
+      bodytoedit.classList.remove("bg9");
+      bodytoedit.classList.remove("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.remove("bg12");
       };
 
     break;
@@ -195,6 +290,19 @@ function makesound(buttonclicks){
       imgtoedit.classList.remove("rightside10");
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.remove("rightside12");
+
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.remove("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.remove("bg4");
+      bodytoedit.classList.remove("bg5");
+      bodytoedit.classList.remove("bg6");
+      bodytoedit.classList.remove("bg7");
+      bodytoedit.classList.add("bg8");
+      bodytoedit.classList.remove("bg9");
+      bodytoedit.classList.remove("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.remove("bg12");
       };
     break;
 
@@ -214,6 +322,19 @@ function makesound(buttonclicks){
       imgtoedit.classList.remove("rightside10");
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.remove("rightside12");
+
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.remove("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.remove("bg4");
+      bodytoedit.classList.remove("bg5");
+      bodytoedit.classList.remove("bg6");
+      bodytoedit.classList.remove("bg7");
+      bodytoedit.classList.remove("bg8");
+      bodytoedit.classList.add("bg9");
+      bodytoedit.classList.remove("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.remove("bg12");
       };
 
     break;
@@ -233,6 +354,19 @@ function makesound(buttonclicks){
       imgtoedit.classList.add("rightside10");
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.remove("rightside12");
+
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.remove("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.remove("bg4");
+      bodytoedit.classList.remove("bg5");
+      bodytoedit.classList.remove("bg6");
+      bodytoedit.classList.remove("bg7");
+      bodytoedit.classList.remove("bg8");
+      bodytoedit.classList.remove("bg9");
+      bodytoedit.classList.add("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.remove("bg12");
       };
 
     break;
@@ -252,6 +386,19 @@ function makesound(buttonclicks){
         imgtoedit.classList.remove("rightside10");
         imgtoedit.classList.add("rightside11");
         imgtoedit.classList.remove("rightside12");
+
+        bodytoedit.classList.remove("bg1");
+        bodytoedit.classList.remove("bg2");
+        bodytoedit.classList.remove("bg3");
+        bodytoedit.classList.remove("bg4");
+        bodytoedit.classList.remove("bg5");
+        bodytoedit.classList.remove("bg6");
+        bodytoedit.classList.remove("bg7");
+        bodytoedit.classList.remove("bg8");
+        bodytoedit.classList.remove("bg9");
+        bodytoedit.classList.remove("bg10");
+        bodytoedit.classList.add("bg11");
+        bodytoedit.classList.remove("bg12");
       };
 
     break;
@@ -271,6 +418,19 @@ function makesound(buttonclicks){
       imgtoedit.classList.remove("rightside10");
       imgtoedit.classList.remove("rightside11");
       imgtoedit.classList.add("rightside12");
+
+      bodytoedit.classList.remove("bg1");
+      bodytoedit.classList.remove("bg2");
+      bodytoedit.classList.remove("bg3");
+      bodytoedit.classList.remove("bg4");
+      bodytoedit.classList.remove("bg5");
+      bodytoedit.classList.remove("bg6");
+      bodytoedit.classList.remove("bg7");
+      bodytoedit.classList.remove("bg8");
+      bodytoedit.classList.remove("bg9");
+      bodytoedit.classList.remove("bg10");
+      bodytoedit.classList.remove("bg11");
+      bodytoedit.classList.add("bg12");
       };
 
     break;
